@@ -10,3 +10,5 @@
 
 ## How to run
 This was developed in Processing. Therefore, you will have to [install Processing](https://processing.org/download/) on your machine.
+
+If you are on Windows, you may also download one of the folders from "executables" for your version of Windows and start the game by running the "Flappybird.exe" in the downloaded folder.
